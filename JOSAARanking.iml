@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="pdfbox:pdfbox:0.7.4" level="project" />
+    <orderEntry type="library" name="org.apache.poi:poi-ooxml:4.1.2" level="project" />
   </component>
 </module>
