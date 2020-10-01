@@ -1,5 +1,5 @@
 # Usage
-Download this zip file and unzip it. Run JOSAARanking.jar (you need Java to run it)
+Download [this zip file](https://github.com/pranavgade20/josaa-ranklist-sorter/raw/master/artifacts/JOSAARanking.zip) and unzip it. Run JOSAARanking.jar (you need Java to run it)
 # From Source
 
 Clone and navigate to this repository:
