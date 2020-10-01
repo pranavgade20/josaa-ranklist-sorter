@@ -1,4 +1,6 @@
 # Usage
+Download this zip file and unzip it. Run JOSAARanking.jar (you need Java to run it)
+# From Source
 
 Clone and navigate to this repository:
 
@@ -12,9 +14,7 @@ Use `getter.sh` to download pdfs from josaa website:
 
 `./getter.sh`
 
-Run `src/Runner.main()` using Eclipse/IDEA(IDEA config files are included)
-
-You might want to edit `src/Main.java` to filter based on different criteria.
+Run `src/MainRunner.main()` using Eclipse/IDEA(IDEA config files are included)
 
 ### Dependencies
 

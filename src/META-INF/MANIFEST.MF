@@ -1,3 +1,8 @@
 Manifest-Version: 1.0
-Main-Class: Runner
+Main-Class: MainRunner
+Class-Path: pdfbox-0.7.4.jar fontbox-0.2.0.jar bcmail-jdk14-132.jar bcpr
+ ov-jdk14-132.jar poi-ooxml-4.1.2.jar poi-4.1.2.jar commons-codec-1.13.j
+ ar commons-collections4-4.4.jar commons-math3-3.6.1.jar SparseBitSet-1.
+ 2.jar poi-ooxml-schemas-4.1.2.jar xmlbeans-3.1.0.jar commons-compress-1
+ .19.jar curvesapi-1.06.jar
 
